@@ -3,7 +3,7 @@ package model;
 public class Main {
 
 	public static void main(String[] args) {
-Grafo grafo = new Grafo();
+		Grafo grafo = new Grafo();
         
         // Agregar vértices con sus pesos
         grafo.addVertice(1, 3.5);
